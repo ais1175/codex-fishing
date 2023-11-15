@@ -1,4 +1,5 @@
 # 5M-CodeX Fishing Script
+![fishing](https://github.com/5M-CodeX/codex-fishing/assets/112611821/86d00dde-d1bd-4448-924c-bdaa81647905)
 
 This script enables players to enjoy a realistic fishing experience in your FiveM server.
 
